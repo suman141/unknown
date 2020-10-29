@@ -5,8 +5,8 @@ const canvasC = document.getElementById('c');
 
 const config = {
   birthdate: 'Oct 30, 2020',
-  name: 'Bidisha🙂'
-  name: 'I ❤️ U'
+  name: 'Bidisha🙂,❤️ U'
+
 };
 
 function hideEverything() {
