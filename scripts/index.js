@@ -5,7 +5,7 @@ const canvasC = document.getElementById('c');
 
 const config = {
   birthdate: 'Nov 4, 2020',
-  name: 'Arpita🙂'
+  name: 'Arpita'
 
 };
 
